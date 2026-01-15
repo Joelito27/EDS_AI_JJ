@@ -33,6 +33,7 @@ Der Originaldatensatz kann auf Kaggle heruntergeladen werden:
 ├── preprocess_gtzan.ipynb       # Feature-Extraktion & Preprocessing
 ├── bad_files.txt                # Liste beschädigter Audiodateien
 ├── Musikbeispiel/               # Beispiel-Audiodatei für Visualisierungen
+  └── hiphop.00099.wav              
 ├── data_gtzan_mfcc.zip*         # aufbereitete GTZAN Daten
 ├── README.md
 └── .gitignore
