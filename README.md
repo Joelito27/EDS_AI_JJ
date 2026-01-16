@@ -45,6 +45,7 @@ Alternativ kann ich die Datei im persönlichen Austausch bereitstellen.
 ---
 
 ## Software Versionen für das Hauptnotebook
+```
 Python         3.12.10 | packaged by conda-forge
 NumPy:         1.26.4
 Librosa:       0.11.0
@@ -52,7 +53,7 @@ Keras:         3.9.2
 Matplotlib:    3.10.1
 Scikit-learn:  1.6.1
 Ipython:       9.1.0
-
+```
 ---
 
 ## Lizenz & Quellen
